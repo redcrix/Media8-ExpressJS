@@ -41,7 +41,7 @@
     "isstream": "^0.1.2",
     "jQuery": "^1.7.4",
     "jquery-ui-stable": "^1.12.1-final",
-    "jsdom": "^10.1.0",
+    "jsdom": "^16.5.0",
     "json-schema": "^0.2.3",
     "json-stable-stringify": "^1.0.1",
     "json-stringify-safe": "^5.0.1",
